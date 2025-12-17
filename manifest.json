@@ -1,0 +1,22 @@
+{
+  "name": "拖三扑克 (Tuosan)",
+  "short_name": "Tuosan",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#14532d",
+  "theme_color": "#14532d",
+  "description": "A complex 4-player strategy card game with 3 decks.",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/754/754868.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/754/754868.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+version: '3'
+services:
+  tuosan-poker:
+    build: .
+    container_name: tuosan_game
+    ports:
+      - "8080:80" # Maps server port 8080 to container port 80
+    restart: always

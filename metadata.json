@@ -1,0 +1,5 @@
+{
+  "name": "拖三扑克",
+  "description": "A complex 4-player strategy card game with 3 decks, team play, and specific bomb rules.",
+  "requestFramePermissions": []
+}
